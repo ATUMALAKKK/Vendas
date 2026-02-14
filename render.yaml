@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: shark-vendas
+    runtime: node
+    buildCommand: |
+      unzip vendas.zip -d ./
+      npm install
+    startCommand: node index.js
+    envVars:
+      - key: TOKEN
+        sync: false 
