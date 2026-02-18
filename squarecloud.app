@@ -1,0 +1,6 @@
+MAIN=index.js
+MEMORY=256
+VERSION=recommended
+DISPLAY_NAME=VendasV1
+DESCRIPTION=Bot VendasV1
+AUTORESTART=true

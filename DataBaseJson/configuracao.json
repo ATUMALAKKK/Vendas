@@ -1,0 +1,40 @@
+{
+    "Cores": {
+        "Principal": "#2b2d31",
+        "Processamento": "#ebeb09",
+        "Sucesso": "#34bf15",
+        "Erro": "#db0d0d",
+        "Finalizado": "#2b2d31"
+    },
+    "pagamentos": {
+        "MpAPI": "APP_USR-6305179948093897-082719-c5c0356c6676954227a53cf7a4121e34-1942956496",
+        "BancosBloqueados": [],
+        "SemiAutomatico": {
+            "status": true,
+            "pix": "ajudandodesigners@contasesuportegamehub.com",
+            "msg": "Envie o COmprovante"
+        }
+    },
+    "ConfigChannels": {
+        "logpedidos": "1328950017116868679",
+        "eventbuy": "1328950017116868679",
+        "boasvindascoole": "1328950017116868679",
+        "systemlogs": "1328950017116868679",
+        "entradas": "1328950017116868679"
+    },
+    "ConfigRoles": {
+        "cargoadm": "1325304936417722468",
+        "cargosup": "1328953298459299921",
+        "cargoCliente": "1329249085282058330",
+        "cargomembro": "1327834423663657001"
+    },
+    "Status1": "/panel",
+    "Entradas": {
+        "msg": "",
+        "tempo": "",
+        "channelid": [
+            ""
+        ]
+    },
+    "Status2": "Ease"
+}
